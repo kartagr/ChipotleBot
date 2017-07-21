@@ -1,8 +1,8 @@
 import requests
 
-ZIPCODE = '94539'
-FIRSTNAME = 'Kartikeya'
-LASTNAME = 'Agrawal'
+ZIPCODE = '11111'
+FIRSTNAME = 'firstName'
+LASTNAME = 'lastName'
 PHONENUMBER = '5103040167'
 
 headers = {
